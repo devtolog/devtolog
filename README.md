@@ -25,5 +25,5 @@ I'm hooked on developing programming languages.
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtolog&theme=vue-dark&layout=compact" />
 </div>
 
-# Work on
+# Working on
 ![Mycig Progeamming Language](https://github.com/mycig-lang)
