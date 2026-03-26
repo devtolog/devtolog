@@ -26,4 +26,4 @@ I'm hooked on developing programming languages.
 </div>
 
 # Working on
-![Mycig Progeamming Language](https://github.com/mycig-lang)
+[Mycig Progeamming Language](https://github.com/mycig-lang)
