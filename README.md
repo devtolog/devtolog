@@ -18,10 +18,11 @@ Hallo. Ich bin devtolog (compalog). GitHub gefällt mir nicht besonders.
 ![](https://skillicons.dev/icons?i=go)
 
 # Activity
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=devtolog&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtolog&theme=vue-dark&layout=compact" />
-</div>
+
+[![](https://raw.githubusercontent.com/devtolog/devtolog/main/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/devtolog/devtolog/main/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/devtolog/devtolog/main/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/devtolog/devtolog/main/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/devtolog/devtolog/main/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 # Working on
 Account: [devtolog](https://codeberg.org/devtolog)
