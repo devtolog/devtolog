@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=muedever" />
 </div> -->
 
-Hallo. Ich bin devtolog (compalog). GitHub gefällt mir nicht besonders. 
+Hallo. Ich bin devtolog (compalog). GitHub gefällt mir nicht besonders. Ich bin bei [Codeberg](https://codeberg.org/devtolog).
 
 # Programming Languages
 ![](https://go-skill-icons.vercel.app/api/icons?i=cs,rust&theme=light)
